@@ -115,11 +115,15 @@ java -cp out Main
 
 ## 🎓 Learning Outcomes
 
-✅ Designed a normalized relational database schema (3NF)
-✅ Implemented complex SQL queries with JOINs, subqueries, and aggregates
-✅ Created stored procedures for reusable database operations
-✅ Applied entity-relationship modeling principles
-✅ Collaborated on a team-based software engineering project
+✅ Designed a normalized relational database schema (3NF).
+
+✅ Implemented complex SQL queries with JOINs, subqueries, and aggregates.
+
+✅ Created stored procedures for reusable database operations.
+
+✅ Applied entity-relationship modeling principles.
+
+✅ Collaborated on a team-based software engineering project.
 
 
 ## 📧 Contact
